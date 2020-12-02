@@ -1,0 +1,16 @@
+<svg width="230" height="85" viewBox="0 0 230 85" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+.svg-animate-main {
+    transform: scaleX(0);
+    animation: grow 1s ease-in-out 1.3s forwards;
+}
+@keyframes grow {
+    to {
+        transform: scaleX(1);
+    }
+}
+</style>
+<path opacity="0.61" d="M218.153 1.82678H12.9922C7.57564 1.82678 3.18469 6.21776 3.18469 11.6343V72.5995C3.18469 78.016 7.57564 82.4069 12.9922 82.4069H218.153C223.57 82.4069 227.961 78.016 227.961 72.5995V11.6343C227.961 6.21776 223.57 1.82678 218.153 1.82678Z" fill="#F9F9F9" stroke="#EEEEEE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="svg-animate-main" d="M70.2651 0.23645V66.2379H1.30997V9.47119C1.35357 8.45229 0.608066 0.23645 7.96772 0.23645H70.2651" fill="#ED5243"/>
+<path class="svg-animate-main" d="M82.1449 66.2279V83.7423H16.6402C15.2799 83.2222 2.50388 86.0378 1.2919 72.7294V66.2279H82.7233" fill="#F3A69E"/>
+</svg>

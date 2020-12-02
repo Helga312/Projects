@@ -1,0 +1,17 @@
+<svg width="230" height="85" viewBox="0 0 230 85" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+.svg-animate-main {
+    transform: scaleX(0);
+    animation: grow 1s ease-in-out 1.05s forwards;
+}
+@keyframes grow {
+    to {
+        transform: scaleX(1);
+    }
+}
+</style>
+<path opacity="0.61" d="M218.028 2.21802H12.8663C7.44982 2.21802 3.05887 6.609 3.05887 12.0255V72.9907C3.05887 78.4072 7.44982 82.7981 12.8663 82.7981H218.028C223.444 82.7981 227.835 78.4072 227.835 72.9907V12.0255C227.835 6.609 223.444 2.21802 218.028 2.21802Z" fill="#F9F9F9" stroke="#EEEEEE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="svg-animate-main" d="M83.374 0.627686V66.6292H1.18485V9.86249C1.23685 8.84358 0.348241 0.627686 9.12036 0.627686H83.374Z" fill="#FBD229"/>
+<path class="svg-animate-main" d="M72.2628 66.6292V84.1236H14.6774C13.4816 83.6041 2.25015 86.4166 1.18469 73.1233V66.6292H72.7713" fill="#FAE691"/>
+
+</svg>

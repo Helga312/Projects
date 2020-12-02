@@ -1,0 +1,15 @@
+<svg width="575" height="563" viewBox="0 0 575 563" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    .stroke-grow {
+        animation: strokeGrow 1s ease-in-out forwards;
+    }
+    @keyframes strokeGrow {
+        to {
+            stroke-dashoffset: 0;
+        }
+    }
+</style>
+<path class="stroke-grow" d="M189.597 10.4107C12.1569 81.5155 -17.6587 266.584 31.7289 384.455" stroke="#ECECEC" stroke-width="19.8085" stroke-dasharray="500" stroke-dashoffset="500" stroke-linecap="round"/>
+<path class="stroke-grow" d="M31.7289 384.455C42.5874 427.775 227.086 678.896 480.334 470.039" stroke="#70A74B" stroke-width="22" stroke-dasharray="700" stroke-dashoffset="700" stroke-linecap="round"/>
+<path class="stroke-grow" d="M380.545 11.2714C389.519 9.77572 467.959 41.963 518.187 119.21C568.649 196.817 601.619 330.96 480.334 470.039" stroke="#FBD234" stroke-width="22" stroke-linecap="round" stroke-dasharray="600" stroke-dashoffset="-600" />
+</svg>
